@@ -65,6 +65,7 @@ My GitHub is my **engineering journal**: labs, automation scripts, infrastructur
 | [🌐 networking-fundamentals](https://github.com/zhaviii/networking-fundamentals) | DNS, DHCP, firewall configs, subnetting labs and notes | Networking · Wireshark |
 | [⚙ python-automation-scripts](https://github.com/zhaviii/python-automation-scripts) | Python scripts for sysadmin automation — log analysis, reports, data export | Python |
 | [☁ netlify-deployment-casestudy](https://github.com/zhaviii/netlify-deployment-casestudy) | Production website deployment — DNS config, custom domain, Netlify pipeline | DNS · Netlify |
+| [🔐 web-authentication-security](https://github.com/zhaviii/web-authentication-security) | Session management, cookie hardening, 2FA weaknesses — defensive security research | Security |
 | [📘 it-notes](https://github.com/zhaviii/it-notes) | Personal IT knowledge base: networking, Linux, Windows Server cheatsheets | Documentation |
 
 ---
