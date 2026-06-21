@@ -34,6 +34,7 @@ My GitHub is my **engineering journal**: labs, automation scripts, infrastructur
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white)
 ![Kali](https://img.shields.io/badge/Kali_Linux-557C94?style=flat&logo=kali-linux&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows&logoColor=white)
+![macOS](https://img.shields.io/badge/macOS-000000?style=flat&logo=apple&logoColor=white)
 
 **Networking & Security**
 ![Huawei](https://img.shields.io/badge/Huawei_Firewall-CF0A2C?style=flat)
