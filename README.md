@@ -22,7 +22,7 @@ My GitHub is my **engineering journal**: labs, automation scripts, infrastructur
 - 🖥 **Day job:** System Administrator & Network Administrator
 - 🎓 **Studying:** Computer Science
 - 🔧 **Focus areas:** Linux · Windows Server · Networking · Python Automation
-- 🌍 **Location:** Azerbaijan
+- 🌍 **Location:** Uzbekistan
 - 📬 **Contact:** legendapro853@gmail.com
 
 ---
