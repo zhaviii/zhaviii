@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I'm Tim 👋
+# Hi, I'm Temurbek 👋
 
 **System Administrator · Network Administrator · CS Student**
 
@@ -15,15 +15,15 @@
 
 ## 👤 About Me
 
-I'm a Computer Science student working professionally as a **System & Network Administrator**. I manage real infrastructure daily — configuring firewalls, maintaining DNS, troubleshooting networks — and I document everything I learn here.
+I'm a Computer Science student working professionally as a **System & Network Administrator** in Uzbekistan. I manage real infrastructure daily — configuring Huawei firewalls, maintaining DNS, administering Linux and Windows systems — and I document everything I learn here.
 
 My GitHub is my **engineering journal**: labs, automation scripts, infrastructure notes, and hands-on projects that reflect real-world work.
 
 - 🖥 **Day job:** System Administrator & Network Administrator
-- 🎓 **Studying:** Computer Science
+- 🎓 **Studying:** Computer Science (C++, algorithms, data structures)
 - 🔧 **Focus areas:** Linux · Windows Server · Networking · Python Automation
 - 🌍 **Location:** Uzbekistan
-- 📬 **Contact:** legendapro853@gmail.com
+- 📬 **Contact:** temurbek.n@icloud.com
 
 ---
 
@@ -35,14 +35,15 @@ My GitHub is my **engineering journal**: labs, automation scripts, infrastructur
 ![Kali](https://img.shields.io/badge/Kali_Linux-557C94?style=flat&logo=kali-linux&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows&logoColor=white)
 
-**Networking**
-![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=flat&logo=cisco&logoColor=white)
+**Networking & Security**
+![Huawei](https://img.shields.io/badge/Huawei_Firewall-CF0A2C?style=flat)
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat&logo=wireshark&logoColor=white)
-![pfSense](https://img.shields.io/badge/Firewall_Config-333333?style=flat)
 ![DNS](https://img.shields.io/badge/DNS%2FDHCP-005C84?style=flat)
+![Kerio](https://img.shields.io/badge/Kerio_Control-333333?style=flat)
 
-**Automation & Scripting**
+**Programming & Scripting**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnu-bash&logoColor=white)
 ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat&logo=powershell&logoColor=white)
 
@@ -58,10 +59,10 @@ My GitHub is my **engineering journal**: labs, automation scripts, infrastructur
 
 | Repository | Description | Stack |
 |-----------|-------------|-------|
+| [🔥 firewall-log-analyzer](https://github.com/zhaviii/firewall-log-analyzer) | Production Huawei firewall log parser — session reconstruction, threat detection, HTML report | Python |
 | [🖥 linux-system-admin](https://github.com/zhaviii/linux-system-admin) | Linux administration labs, commands, and real-world sysadmin tasks | Linux · Bash |
 | [🌐 networking-fundamentals](https://github.com/zhaviii/networking-fundamentals) | DNS, DHCP, firewall configs, subnetting labs and notes | Networking · Wireshark |
-| [⚙ python-automation-scripts](https://github.com/zhaviii/python-automation-scripts) | Python scripts for firewall log analysis and data automation | Python · Excel |
-| [🔥 firewall-log-analyzer](https://github.com/zhaviii/firewall-log-analyzer) | Real-world firewall log parser — reads logs, analyzes threats, exports to Excel | Python |
+| [⚙ python-automation-scripts](https://github.com/zhaviii/python-automation-scripts) | Python scripts for sysadmin automation — log analysis, reports, data export | Python |
 | [☁ netlify-deployment-casestudy](https://github.com/zhaviii/netlify-deployment-casestudy) | Production website deployment — DNS config, custom domain, Netlify pipeline | DNS · Netlify |
 | [📘 it-notes](https://github.com/zhaviii/it-notes) | Personal IT knowledge base: networking, Linux, Windows Server cheatsheets | Documentation |
 
@@ -72,14 +73,17 @@ My GitHub is my **engineering journal**: labs, automation scripts, infrastructur
 ```
 ✅ Linux CLI & Terminal (Ubuntu · Kali)
 ✅ Networking Fundamentals (DNS · DHCP · Routing · Firewalls)
-✅ Router & Firewall Configuration (real environment)
-✅ Python Automation (log analysis · Excel reports)
+✅ Huawei Firewall Administration (real environment)
+✅ Router & Firewall Configuration (policy management)
+✅ Python Automation (log analysis · HTML reports)
 ✅ Production Deployment (Netlify · DNS · Custom Domain)
+✅ C++ Programming (university coursework)
+✅ iOS System Internals (bootchain, filesystem — educational)
 🔄 Windows Server Administration (in progress)
 🔄 Active Directory & Group Policy (in progress)
 ⬜ Docker & Containerization
 ⬜ CI/CD Pipelines (GitHub Actions)
-⬜ Infrastructure as Code (Ansible / Terraform basics)
+⬜ Infrastructure as Code (Ansible basics)
 ⬜ Cloud Fundamentals (AWS or Azure)
 ⬜ CompTIA Network+ Certification
 ```
@@ -90,7 +94,7 @@ My GitHub is my **engineering journal**: labs, automation scripts, infrastructur
 
 <div align="center">
 
-![Tim's GitHub Stats](https://github-readme-stats.vercel.app/api?username=zhaviii&show_icons=true&theme=dark&hide_border=true&count_private=true)
+![Temurbek's GitHub Stats](https://github-readme-stats.vercel.app/api?username=zhaviii&show_icons=true&theme=dark&hide_border=true&count_private=true)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zhaviii&layout=compact&theme=dark&hide_border=true)
 
@@ -100,7 +104,7 @@ My GitHub is my **engineering journal**: labs, automation scripts, infrastructur
 
 ## 📬 Contact
 
-- 📧 Email: legendapro853@gmail.com
+- 📧 Email: temurbek.n@icloud.com
 - 🐙 GitHub: [@zhaviii](https://github.com/zhaviii)
 
 ---
