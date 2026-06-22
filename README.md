@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I'm Temurbek 👋
+# Hi, I'm Tim 👋
 
 **System Administrator · Network Administrator · CS Student**
 
